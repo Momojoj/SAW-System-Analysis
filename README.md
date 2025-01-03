@@ -11,8 +11,8 @@ Handled the transition to SAW and took responsibility for designing most of the 
 2. [Login Page](img/preview2.png)
 3. [Admin Page](img/preview3.png)
 
-## Report
-[📑 SAW System Report](SAW_Report.pdf)🔗
+## 📑 Report
+[SAW System Report](SAW_Report.pdf)🔗
 
-## Tools 🧰
+## 🧰 Tools
 - Figma
