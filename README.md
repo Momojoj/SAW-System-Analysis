@@ -5,7 +5,7 @@ The digital service hub website was analyzed and designed to meet user needs thr
 
 Handled the transition to SAW and took responsibility for designing most of the UI, ensuring a smooth and appealing experience
 
-## [Preview Figma Design](https://shorturl.at/5ryDk)🔗
+## [Preview Figma Design](https://www.figma.com/proto/pfNwZN8KuMhVvxrj4HOS8a/SAW?node-id=95-832&p=f&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=95%3A832)🔗
 
 1. [First Page](img/preview1.png)
 2. [Login Page](img/preview2.png)
